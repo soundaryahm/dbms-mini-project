@@ -58,7 +58,7 @@ if($email==$dbemail&&$password==$dbpassword)
 		}  
 }
 else
-echo "<script type='text/javascript'>alert('Incorrect password');</script>";
+echo "<script type='text/javascript'>alert('Incorrect Password');</script>";
 }
 else
 echo "<script type='text/javascript'>alert('User does not exist');</script>";
