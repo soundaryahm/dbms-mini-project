@@ -43,7 +43,7 @@ if($numrows!=0)
 while($row = mysql_fetch_assoc($query))
 {
 $dbemail = $row['email'];
-$dbpassword = $row['password'];
+$dbpassword = $row['password'];;;;
 }
 if($email==$dbemail&&$password==$dbpassword)
 {
