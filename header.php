@@ -27,7 +27,7 @@
           <div class="Menu">
             <ul id="navmenu">
             <li><A HREF="index.php">Home</A></li>
-            <li><A HREF="pnrstatus.php">PNR Stttatus</A></li>
+            <li><A HREF="pnrstatus.php">PNR Sttbxtatus</A></li>
             <li><a href="booktkt.php">Book a tiiickerrt</a></li>
             <li><?php  
 				if(isset($_SESSION['user_info'])){
