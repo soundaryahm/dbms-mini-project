@@ -28,7 +28,7 @@
             <ul id="navmenu">
             <li><A HREF="index.php">Home</A></li>
             <li><A HREF="pnrstatus.php">PNR Stttatus</A></li>
-            <li><a href="booktkt.php">Book a tiiicket</a></li>
+            <li><a href="booktkt.php">Book a tiiickerrt</a></li>
             <li><?php  
 				if(isset($_SESSION['user_info'])){
 					echo '<div id="dropdown">'.$_SESSION['user_info'].'<div id="Logout" style="display:none">Logout</div>';
